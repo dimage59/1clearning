@@ -1,2 +1,25 @@
 ﻿1CV8LOG(ver 2.0)
 b1738892-92bc-4753-bde2-1bf3125c9d0e
+
+{1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
+{2,"DESKTOP-BUKODL7",1},
+{3,"Designer",1},
+{4,"_$Session$_.Authentication",1},
+{13,1,1},
+{4,"_$Session$_.Start",2},
+{4,"_$Session$_.Finish",3},
+{3,"1CV8C",2},
+{3,"BackgroundJob",3},
+{4,"_$InfoBase$_.ConfigUpdate",4},
+{4,"_$InfoBase$_.DBConfigUpdateStart",5},
+{4,"_$InfoBase$_.PredefinedDataUpdate",6},
+{5,63acd65e-12ba-49da-bba7-5c2cd0cb4be7,"",1},
+{4,"_$InfoBase$_.DBConfigUpdate",7},
+{5,cd90e89a-32d2-4eb5-a398-23f9a5988b41,"",2},
+{4,"_$Transaction$_.Begin",8},
+{4,"_$Data$_.New",9},
+{5,cd90e89a-32d2-4eb5-a398-23f9a5988b41,"Справочник.склады",2},
+{4,"_$Transaction$_.Commit",10},
+{5,c118d3d7-62b5-486b-b9be-a11d01798be6,"",3},
+{5,c118d3d7-62b5-486b-b9be-a11d01798be6,"Справочник.контрагенты",3},
+{5,7e7f947d-03ea-4925-8e49-e5fcafdd1b1e,"",4}
